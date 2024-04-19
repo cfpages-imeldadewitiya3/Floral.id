@@ -1,47 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<sitemap>
-		<loc>/post-sitemap1.xml</loc>
+		<loc>https://floral.id/post-sitemap1.xml</loc>
 		<lastmod>2023-05-30T10:49:56+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>/post-sitemap2.xml</loc>
+		<loc>https://floral.id/post-sitemap2.xml</loc>
 		<lastmod>2023-05-30T10:49:55+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>/post-sitemap3.xml</loc>
+		<loc>https://floral.id/post-sitemap3.xml</loc>
 		<lastmod>2023-05-30T10:49:55+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>/post-sitemap4.xml</loc>
+		<loc>https://floral.id/post-sitemap4.xml</loc>
 		<lastmod>2023-05-30T10:49:55+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>/post-sitemap5.xml</loc>
+		<loc>https://floral.id/post-sitemap5.xml</loc>
 		<lastmod>2023-05-30T10:49:54+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>/post-sitemap6.xml</loc>
+		<loc>https://floral.id/post-sitemap6.xml</loc>
 		<lastmod>2023-05-30T10:49:54+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>/post-sitemap7.xml</loc>
+		<loc>https://floral.id/post-sitemap7.xml</loc>
 		<lastmod>2023-05-30T10:49:54+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>/post-sitemap8.xml</loc>
+		<loc>https://floral.id/post-sitemap8.xml</loc>
 		<lastmod>2023-05-30T10:49:53+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>/post-sitemap9.xml</loc>
+		<loc>https://floral.id/post-sitemap9.xml</loc>
 		<lastmod>2023-05-30T10:49:53+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>/post-sitemap10.xml</loc>
+		<loc>https://floral.id/post-sitemap10.xml</loc>
 		<lastmod>2023-05-30T10:49:53+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>/page-sitemap.xml</loc>
+		<loc>https://floral.id/page-sitemap.xml</loc>
 		<lastmod>2023-05-30T11:29:26+00:00</lastmod>
 	</sitemap>
 </sitemapindex>

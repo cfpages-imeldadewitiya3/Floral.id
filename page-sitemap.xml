@@ -1,278 +1,278 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>/berita</loc>
+		<loc>https://floral.id/berita</loc>
 		<lastmod>2023-05-29T09:16:56+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/</loc>
+		<loc>https://floral.id/</loc>
 		<lastmod>2023-05-30T11:03:22+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/flower-hand-min.png</image:loc>
+			<image:loc>https://floral.id/wp-content/uploads/2023/05/flower-hand-min.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/floral.jpg</image:loc>
+			<image:loc>https://floral.id/wp-content/uploads/2023/05/floral.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/bunga-meja</loc>
+		<loc>https://floral.id/bunga-meja</loc>
 		<lastmod>2023-05-30T11:29:26+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/perangkai</loc>
+		<loc>https://floral.id/perangkai</loc>
 		<lastmod>2023-05-30T11:28:20+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/man-florist.jpg</image:loc>
+			<image:loc>https://floral.id/wp-content/uploads/2023/05/man-florist.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/pengerjaan-rangkaian-bunga.jpg</image:loc>
+			<image:loc>https://floral.id/wp-content/uploads/2023/05/pengerjaan-rangkaian-bunga.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/salib</loc>
+		<loc>https://floral.id/salib</loc>
 		<lastmod>2023-05-30T11:24:50+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/paper-flower</loc>
+		<loc>https://floral.id/paper-flower</loc>
 		<lastmod>2023-05-30T11:24:08+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/bunga-papan</loc>
+		<loc>https://floral.id/bunga-papan</loc>
 		<lastmod>2023-05-30T11:23:25+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/standing-flower</loc>
+		<loc>https://floral.id/standing-flower</loc>
 		<lastmod>2023-05-30T11:22:36+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/handbouquet</loc>
+		<loc>https://floral.id/handbouquet</loc>
 		<lastmod>2023-05-30T11:21:58+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/mobil-pengantin</loc>
+		<loc>https://floral.id/mobil-pengantin</loc>
 		<lastmod>2023-05-30T11:20:45+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/rangkaian-bunga-mobil-segar-2.jpg</image:loc>
+			<image:loc>https://floral.id/wp-content/uploads/2023/05/rangkaian-bunga-mobil-segar-2.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/rangkaian-bunga-mobil-segar-5.jpg</image:loc>
+			<image:loc>https://floral.id/wp-content/uploads/2023/05/rangkaian-bunga-mobil-segar-5.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/rangkaian-bunga-mobil-segar.jpg</image:loc>
+			<image:loc>https://floral.id/wp-content/uploads/2023/05/rangkaian-bunga-mobil-segar.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/rangkaian-bunga-mobil-segar-4.jpg</image:loc>
+			<image:loc>https://floral.id/wp-content/uploads/2023/05/rangkaian-bunga-mobil-segar-4.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/rangkaian-bunga-mobil-segar-3.jpg</image:loc>
+			<image:loc>https://floral.id/wp-content/uploads/2023/05/rangkaian-bunga-mobil-segar-3.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/kontak-kami</loc>
+		<loc>https://floral.id/kontak-kami</loc>
 		<lastmod>2023-05-30T11:03:45+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tentang</loc>
+		<loc>https://floral.id/tentang</loc>
 		<lastmod>2023-05-30T11:03:31+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/floral.jpg</image:loc>
+			<image:loc>https://floral.id/wp-content/uploads/2023/05/floral.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/karangan-bunga-duka-cita-uk-80-x-120-cm.jpg</image:loc>
+			<image:loc>https://floral.id/wp-content/uploads/2023/05/karangan-bunga-duka-cita-uk-80-x-120-cm.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/karangan-bunga-duka-cita-uk-225-x-140-cm-1jt.jpg</image:loc>
+			<image:loc>https://floral.id/wp-content/uploads/2023/05/karangan-bunga-duka-cita-uk-225-x-140-cm-1jt.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/karangan-bunga-duka-cita-uk-225-x-140-cm-750rb.jpg</image:loc>
+			<image:loc>https://floral.id/wp-content/uploads/2023/05/karangan-bunga-duka-cita-uk-225-x-140-cm-750rb.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/karangan-bunga-duka-cita-uk-225-x-140-cm.jpg</image:loc>
+			<image:loc>https://floral.id/wp-content/uploads/2023/05/karangan-bunga-duka-cita-uk-225-x-140-cm.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/karangan-bunga-selamat-dan-sukses-uk-80-x-120-cm-400rb-2.jpg</image:loc>
+			<image:loc>https://floral.id/wp-content/uploads/2023/05/karangan-bunga-selamat-dan-sukses-uk-80-x-120-cm-400rb-2.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/karangan-bunga-selamat-dan-sukses-uk-80-x-120-cm-400rb.jpg</image:loc>
+			<image:loc>https://floral.id/wp-content/uploads/2023/05/karangan-bunga-selamat-dan-sukses-uk-80-x-120-cm-400rb.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/karangan-bunga-selamat-dan-sukses-uk-225-x-140-cm-125jt.jpg</image:loc>
+			<image:loc>https://floral.id/wp-content/uploads/2023/05/karangan-bunga-selamat-dan-sukses-uk-225-x-140-cm-125jt.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/karangan-bunga-selamat-dan-sukses-uk-225-x-140-cm-550rb.jpg</image:loc>
+			<image:loc>https://floral.id/wp-content/uploads/2023/05/karangan-bunga-selamat-dan-sukses-uk-225-x-140-cm-550rb.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/karangan-bunga-wedding-uk-80-x-120-cm-400rb-2.jpg</image:loc>
+			<image:loc>https://floral.id/wp-content/uploads/2023/05/karangan-bunga-wedding-uk-80-x-120-cm-400rb-2.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/karangan-bunga-wedding-uk-80-x-120-cm-400rb.jpg</image:loc>
+			<image:loc>https://floral.id/wp-content/uploads/2023/05/karangan-bunga-wedding-uk-80-x-120-cm-400rb.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/karangan-bunga-wedding-uk-225-x-140-cm-125jt.jpg</image:loc>
+			<image:loc>https://floral.id/wp-content/uploads/2023/05/karangan-bunga-wedding-uk-225-x-140-cm-125jt.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/karangan-bunga-wedding-uk-225-x-140-cm-175jt.jpg</image:loc>
+			<image:loc>https://floral.id/wp-content/uploads/2023/05/karangan-bunga-wedding-uk-225-x-140-cm-175jt.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/karangan-bunga-wedding-uk-225-x-140-cm-1jt.jpg</image:loc>
+			<image:loc>https://floral.id/wp-content/uploads/2023/05/karangan-bunga-wedding-uk-225-x-140-cm-1jt.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/karangan-bunga-wedding-uk-225-x-140-cm-750rb.jpg</image:loc>
+			<image:loc>https://floral.id/wp-content/uploads/2023/05/karangan-bunga-wedding-uk-225-x-140-cm-750rb.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/standing-flower-selamat-dan-sukses-small.jpg</image:loc>
+			<image:loc>https://floral.id/wp-content/uploads/2023/05/standing-flower-selamat-dan-sukses-small.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/standing-flower-selamat-dan-sukses-large.jpg</image:loc>
+			<image:loc>https://floral.id/wp-content/uploads/2023/05/standing-flower-selamat-dan-sukses-large.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/standing-flower-wedding.jpg</image:loc>
+			<image:loc>https://floral.id/wp-content/uploads/2023/05/standing-flower-wedding.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/standing-flower-duka-cita.jpg</image:loc>
+			<image:loc>https://floral.id/wp-content/uploads/2023/05/standing-flower-duka-cita.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/HB-201-Hand-Bouquet.jpg</image:loc>
+			<image:loc>https://floral.id/wp-content/uploads/2023/05/HB-201-Hand-Bouquet.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/HB-500-Hand-Bouquet.jpg</image:loc>
+			<image:loc>https://floral.id/wp-content/uploads/2023/05/HB-500-Hand-Bouquet.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/HB-100-Hand-Bouquet.jpg</image:loc>
+			<image:loc>https://floral.id/wp-content/uploads/2023/05/HB-100-Hand-Bouquet.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/HB-200-Hand-Bouquet.jpg</image:loc>
+			<image:loc>https://floral.id/wp-content/uploads/2023/05/HB-200-Hand-Bouquet.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/HB-201-Hand-Bouquet-1.jpg</image:loc>
+			<image:loc>https://floral.id/wp-content/uploads/2023/05/HB-201-Hand-Bouquet-1.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/paper-flower-board-100.jpg</image:loc>
+			<image:loc>https://floral.id/wp-content/uploads/2023/05/paper-flower-board-100.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/paper-flower-board-101.jpg</image:loc>
+			<image:loc>https://floral.id/wp-content/uploads/2023/05/paper-flower-board-101.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/paper-flower-board-102.jpg</image:loc>
+			<image:loc>https://floral.id/wp-content/uploads/2023/05/paper-flower-board-102.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/BM-101-Bunga-Meja.jpg</image:loc>
+			<image:loc>https://floral.id/wp-content/uploads/2023/05/BM-101-Bunga-Meja.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/BM-102-Bunga-Meja.jpg</image:loc>
+			<image:loc>https://floral.id/wp-content/uploads/2023/05/BM-102-Bunga-Meja.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/BM-100-Bunga-Meja.jpg</image:loc>
+			<image:loc>https://floral.id/wp-content/uploads/2023/05/BM-100-Bunga-Meja.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/partnership</loc>
+		<loc>https://floral.id/partnership</loc>
 		<lastmod>2023-05-26T08:24:19+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/flower-hand-min.png</image:loc>
+			<image:loc>https://floral.id/wp-content/uploads/2023/05/flower-hand-min.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/faq</loc>
+		<loc>https://floral.id/faq</loc>
 		<lastmod>2023-05-26T07:46:02+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/karangan-bunga-duka-cita-uk-80-x-120-cm.jpg</image:loc>
+			<image:loc>https://floral.id/wp-content/uploads/2023/05/karangan-bunga-duka-cita-uk-80-x-120-cm.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/karangan-bunga-duka-cita-uk-225-x-140-cm-1jt.jpg</image:loc>
+			<image:loc>https://floral.id/wp-content/uploads/2023/05/karangan-bunga-duka-cita-uk-225-x-140-cm-1jt.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/karangan-bunga-duka-cita-uk-225-x-140-cm-750rb.jpg</image:loc>
+			<image:loc>https://floral.id/wp-content/uploads/2023/05/karangan-bunga-duka-cita-uk-225-x-140-cm-750rb.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/karangan-bunga-duka-cita-uk-225-x-140-cm.jpg</image:loc>
+			<image:loc>https://floral.id/wp-content/uploads/2023/05/karangan-bunga-duka-cita-uk-225-x-140-cm.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/karangan-bunga-selamat-dan-sukses-uk-80-x-120-cm-400rb-2.jpg</image:loc>
+			<image:loc>https://floral.id/wp-content/uploads/2023/05/karangan-bunga-selamat-dan-sukses-uk-80-x-120-cm-400rb-2.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/karangan-bunga-selamat-dan-sukses-uk-80-x-120-cm-400rb.jpg</image:loc>
+			<image:loc>https://floral.id/wp-content/uploads/2023/05/karangan-bunga-selamat-dan-sukses-uk-80-x-120-cm-400rb.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/karangan-bunga-selamat-dan-sukses-uk-225-x-140-cm-125jt.jpg</image:loc>
+			<image:loc>https://floral.id/wp-content/uploads/2023/05/karangan-bunga-selamat-dan-sukses-uk-225-x-140-cm-125jt.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/karangan-bunga-selamat-dan-sukses-uk-225-x-140-cm-550rb.jpg</image:loc>
+			<image:loc>https://floral.id/wp-content/uploads/2023/05/karangan-bunga-selamat-dan-sukses-uk-225-x-140-cm-550rb.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/karangan-bunga-wedding-uk-80-x-120-cm-400rb-2.jpg</image:loc>
+			<image:loc>https://floral.id/wp-content/uploads/2023/05/karangan-bunga-wedding-uk-80-x-120-cm-400rb-2.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/karangan-bunga-wedding-uk-80-x-120-cm-400rb.jpg</image:loc>
+			<image:loc>https://floral.id/wp-content/uploads/2023/05/karangan-bunga-wedding-uk-80-x-120-cm-400rb.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/karangan-bunga-wedding-uk-225-x-140-cm-125jt.jpg</image:loc>
+			<image:loc>https://floral.id/wp-content/uploads/2023/05/karangan-bunga-wedding-uk-225-x-140-cm-125jt.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/karangan-bunga-wedding-uk-225-x-140-cm-175jt.jpg</image:loc>
+			<image:loc>https://floral.id/wp-content/uploads/2023/05/karangan-bunga-wedding-uk-225-x-140-cm-175jt.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/karangan-bunga-wedding-uk-225-x-140-cm-1jt.jpg</image:loc>
+			<image:loc>https://floral.id/wp-content/uploads/2023/05/karangan-bunga-wedding-uk-225-x-140-cm-1jt.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/karangan-bunga-wedding-uk-225-x-140-cm-750rb.jpg</image:loc>
+			<image:loc>https://floral.id/wp-content/uploads/2023/05/karangan-bunga-wedding-uk-225-x-140-cm-750rb.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/standing-flower-selamat-dan-sukses-small.jpg</image:loc>
+			<image:loc>https://floral.id/wp-content/uploads/2023/05/standing-flower-selamat-dan-sukses-small.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/standing-flower-selamat-dan-sukses-large.jpg</image:loc>
+			<image:loc>https://floral.id/wp-content/uploads/2023/05/standing-flower-selamat-dan-sukses-large.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/standing-flower-wedding.jpg</image:loc>
+			<image:loc>https://floral.id/wp-content/uploads/2023/05/standing-flower-wedding.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/standing-flower-duka-cita.jpg</image:loc>
+			<image:loc>https://floral.id/wp-content/uploads/2023/05/standing-flower-duka-cita.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/HB-201-Hand-Bouquet.jpg</image:loc>
+			<image:loc>https://floral.id/wp-content/uploads/2023/05/HB-201-Hand-Bouquet.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/HB-500-Hand-Bouquet.jpg</image:loc>
+			<image:loc>https://floral.id/wp-content/uploads/2023/05/HB-500-Hand-Bouquet.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/HB-100-Hand-Bouquet.jpg</image:loc>
+			<image:loc>https://floral.id/wp-content/uploads/2023/05/HB-100-Hand-Bouquet.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/HB-200-Hand-Bouquet.jpg</image:loc>
+			<image:loc>https://floral.id/wp-content/uploads/2023/05/HB-200-Hand-Bouquet.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/HB-201-Hand-Bouquet-1.jpg</image:loc>
+			<image:loc>https://floral.id/wp-content/uploads/2023/05/HB-201-Hand-Bouquet-1.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/paper-flower-board-100.jpg</image:loc>
+			<image:loc>https://floral.id/wp-content/uploads/2023/05/paper-flower-board-100.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/paper-flower-board-101.jpg</image:loc>
+			<image:loc>https://floral.id/wp-content/uploads/2023/05/paper-flower-board-101.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/paper-flower-board-102.jpg</image:loc>
+			<image:loc>https://floral.id/wp-content/uploads/2023/05/paper-flower-board-102.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/BM-101-Bunga-Meja.jpg</image:loc>
+			<image:loc>https://floral.id/wp-content/uploads/2023/05/BM-101-Bunga-Meja.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/BM-102-Bunga-Meja.jpg</image:loc>
+			<image:loc>https://floral.id/wp-content/uploads/2023/05/BM-102-Bunga-Meja.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/BM-100-Bunga-Meja.jpg</image:loc>
+			<image:loc>https://floral.id/wp-content/uploads/2023/05/BM-100-Bunga-Meja.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/shop</loc>
+		<loc>https://floral.id/shop</loc>
 		<lastmod>2023-05-22T23:32:39+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/privacy-policy</loc>
+		<loc>https://floral.id/privacy-policy</loc>
 		<lastmod>2023-05-22T12:42:21+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/layanan</loc>
+		<loc>https://floral.id/layanan</loc>
 		<lastmod>2023-05-11T08:18:14+00:00</lastmod>
 	</url>
 </urlset>
